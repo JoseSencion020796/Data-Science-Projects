@@ -1,6 +1,6 @@
 # Data-Science-Projects
 
-assets/data-science-projects.jpg
+[Data Sc. Projects](assets/data-science-projects.jpg)
 
 ### As a dedicated Data professional with history of meeting company goals utilizing consistent and organized
 practices. Skilled in working under pressure and adapting to new situations and challenges to best enhance the
