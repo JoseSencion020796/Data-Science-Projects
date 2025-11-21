@@ -3,7 +3,7 @@
 
 <p align="center">
   
-  <img src="assets/data-science-projects.jpg" width="1600px">
+  <img src="assets/data-science-projects.jpg" width="1700px">
 </p>
 
 
