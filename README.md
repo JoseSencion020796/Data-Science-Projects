@@ -1,5 +1,10 @@
 # Data-Science-Projects
 
+
+<p align="center">
+  <img src="assets/data-science-projects.jpg" width="300px">
+</p>
+
 [Data Sc. Projects](assets/data-science-projects.jpg)
 
 ### As a dedicated Data professional with history of meeting company goals utilizing consistent and organized
