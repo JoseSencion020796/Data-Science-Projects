@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="assets/data-science-projects.jpg" width="1700px">
+  <img src="assets/Gemini_Generated_Image_8z5n1d8z5n1d8z5n.png" width="1700px">
 </p>
 
 <p align="left">
