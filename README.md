@@ -10,3 +10,6 @@
 practices. Skilled in working under pressure and adapting to new situations and challenges to best enhance the
 organizational brand. Experienced Data Scientist with over 5 years of experience in Tech Industry. 
 </p>
+
+
+## Projects
