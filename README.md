@@ -17,4 +17,8 @@ ____
 
 ### 1. Car's Price prediction model
 
-#### Excutive Summary
+#### Excutive Summary:
+
+<p align="left">
+On this analysis we created a classification machine learning model to take advantage of the propability methods. In order to understand how likely is a customer to buy a car given an specific brand, model and some other specifications.
+</p>
