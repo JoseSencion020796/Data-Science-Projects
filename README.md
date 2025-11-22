@@ -13,4 +13,8 @@ organizational brand. Experienced Data Scientist with over 5 years of experience
 
 
 ## Projects
-___
+____
+
+### 1. Car's Price prediction model
+
+#### Excutive Summary
