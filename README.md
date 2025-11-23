@@ -22,3 +22,18 @@ ____
 <p align="left">
 On this analysis we created a classification machine learning model to take advantage of the propability methods. In order to understand how likely is a customer to buy a car given an specific brand, model and some other specifications.
 </p>
+
+#### Setps of the Analysis:
+* Data Loading
+* Data cleaning and preprocessing
+* Data Visualization
+* Model Training and Evaluation
+* Insights
+
+#### Findings:
+
+<p align="left">
+  <img src="assets/proyectos_rectangular.PNG" width="1600px">
+  We found that there are variables really important like the name of the brand and model of the vehicule
+</p>
+  
