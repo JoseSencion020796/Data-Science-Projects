@@ -52,3 +52,15 @@ On this analysis we created a classification machine learning model to take adva
 After going through the complex process of cleaning and preprocessing the data, we ended up with more rows because some cells contained value ranges that we split into lower and upper bounds, which effectively expanded the dataset. During this process, we also discovered important hidden variables that were categorical, such as the brand name and model of the vehicle. This led me to conclude that customers are willing to pay more for a car from a brand that is widely recognized as reliable, even when the specifications are similar to those of a cheaper option.
 </p>
 
+#### Model Training and Evaluation:
+<tr>
+<td style="width: 99%; text-align: center; padding: 10px;">
+<img src="assets/correlation_matrix.png" width="100%">
+</td>
+<td style="width: 2%; border-left: 2px solid #ccc; padding: 0 5px;">
+</td>
+
+<p style="text-align: justify;">
+Once we have the model results we can conclude that horsepower, speed and brand_name are the best predictors. Since we did not have enough data to create a mos accurate prediction the model performed so far good.
+</p>
+
