@@ -34,6 +34,7 @@ On this analysis we created a classification machine learning model to take adva
 
 <p align="left">
   <img src="assets/correlation_matrix.png" width="300px">
-  We found that there are variables really important like the name of the brand and model of the vehicule
+  <p align="right">We found that there are variables really important 
+                  like the name of the brand and model of the vehicule </p>
 </p>
   
