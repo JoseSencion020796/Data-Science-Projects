@@ -55,7 +55,7 @@ After going through the complex process of cleaning and preprocessing the data, 
 #### Model Training and Evaluation:
 <tr>
 <td style="width: 99%; text-align: center; padding: 10px;">
-<img src="assets/correlation_matrix.png" width="100%">
+<img src="assets/predictions.png" width="100%">
 </td>
 <td style="width: 2%; border-left: 2px solid #ccc; padding: 0 5px;">
 </td>
