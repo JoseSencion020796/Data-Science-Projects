@@ -32,30 +32,9 @@ On this analysis we created a classification machine learning model to take adva
 
 #### Findings:
 
-<div style="
-  display: flex; 
-  align-items: center; 
-  gap: 25px; 
-  padding: 20px; 
-  border: 1px solid #ddd; 
-  border-radius: 10px; 
-  background-color: #f9f9f9;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
-">
-
-  <!-- Imagen -->
-  <img src="assets/correlation_matrix.png" width="420px" style="border-radius: 6px;">
-
-  <!-- Insights -->
-  <div style="max-width: 50%;">
-    <h3 style="margin-top: 0;">Key Insights</h3>
-    <ul>
-      <li>Brand and model show a strong influence on vehicle price.</li>
-      <li>Horsepower and total speed correlate positively with higher prices.</li>
-      <li>Variables with near-zero correlation offer limited predictive value and can be removed.</li>
-    </ul>
-  </div>
-
-</div>
-
+<p align="right">
+ As a dedicated Data professional with history of meeting company goals utilizing consistent and organized
+practices. Skilled in working under pressure and adapting to new situations and challenges to best enhance the
+organizational brand. Experienced Data Scientist with over 5 years of experience in Tech Industry. 
+</p>
 
