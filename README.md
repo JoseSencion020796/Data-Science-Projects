@@ -33,7 +33,7 @@ On this analysis we created a classification machine learning model to take adva
 #### Findings:
 
 <p align="left">
-  <img src="assets/proyectos_rectangular.PNG" width="1600px">
+  <img src="assets/correlation_matrix.png" width="800px">
   We found that there are variables really important like the name of the brand and model of the vehicule
 </p>
   
