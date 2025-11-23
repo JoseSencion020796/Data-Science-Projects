@@ -32,19 +32,23 @@ On this analysis we created a classification machine learning model to take adva
 
 #### Findings:
 
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+<div style="display: flex; align-items: center; gap: 20px;">
 
   <!-- Imagen -->
   <img src="assets/correlation_matrix.png" width="420px" style="border-radius: 6px;">
 
   <!-- Insights -->
-  <div style="max-width: 45%; text-align: left; padding-left: 20px;">
-    <h3 style="margin-top: 0;">Key Insights</h3>
+  <div style="max-width: 50%;">
+    <h3>Key Insights</h3>
     <ul>
-      <li>Brand and model show strong influence on vehicle pricing.</li>
-      <li>Higher horsepower and total speed are positively correlated with higher prices.</li>
-      <li>Variables with near-zero correlation can be removed to simplify the model.</li>
+      <li>Brand and model show a strong influence on vehicle price.</li>
+      <li>Horsepower and total speed correlate positively with higher prices.</li>
+      <li>Some variables show minimal correlation and may be removed to simplify the model.</li>
     </ul>
+  </div>
+
+</div>
+
   </div>
 
 </div>
