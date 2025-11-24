@@ -1,6 +1,5 @@
 # Data-Science-Projects
 
-
 <p align="center">
   <img src="assets/proyectos_rectangular.PNG" width="1200px">
 </p>
@@ -19,8 +18,20 @@ ____
 ____
 #### Excutive Summary:
 
+<p align="left" style="text-align: justify;">
+After going through multiple meetings with marketing, sales, and supply chain stakeholders, a cannibalization impact analysis was required since some key performance indicators (KPIs) were showing a downward trend, such as Net Revenue, Volume, and Net Revenue per ML or HL.
+</p>
 
+#### Setps of the Analysis:
 
+* Data Loading
+* Data cleaning and preprocessing
+* Data Visualization
+* Model Training and Evaluation
+* Insights
+
+#### Exploratory Data Analysis Findings:
+**AAA
 
 ### 2. Car's Price prediction model
 ____
