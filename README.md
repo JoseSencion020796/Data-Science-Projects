@@ -15,8 +15,15 @@ organizational brand. Experienced Data Scientist with over 5 years of experience
 ## Projects
 ____
 
-### 1. Car's Price prediction model
+### 1. Cannibalization Impact Analysis from New Product Sales
+____
+#### Excutive Summary:
 
+
+
+
+### 2. Car's Price prediction model
+____
 #### Excutive Summary:
 
 <p align="left" style="text-align: justify;">
