@@ -61,6 +61,6 @@ After going through the complex process of cleaning and preprocessing the data, 
 </td>
 
 <p style="text-align: justify;">
-Once we have the model results we can conclude that horsepower, speed and brand_name are the best predictors. Since we did not have enough data to create a mos accurate prediction the model performed so far good.
+Once we have the model results we can conclude that horsepower, speed and brand_name are the best predictors. Since we did not have enough data to create a mos accurate prediction the model performed so far good. It was performing r2 = 0.74 and once I removed the outliers it is performing 0.93 which is a 25% improvement for predictions.
 </p>
 
