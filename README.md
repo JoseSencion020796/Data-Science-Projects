@@ -39,6 +39,10 @@ After going through multiple meetings with marketing, sales, and supply chain st
 <td style="width: 2%; border-left: 2px solid #ccc; padding: 0 5px;">
 </td>
 
+<p style="text-align: justify;">
+In this analysis, we evaluate post-intervention sales performance by applying a rolling average to reduce noise and highlight the underlying volume trend. The resulting pattern reveals a pronounced peak in demand for the product following the intervention. This surge may be partially responsible for the declining sales observed in other products, indicating a potential cannibalization effect. These insights are important when assessing the net impact of the intervention on overall category performance and guiding future promotional or portfolio strategies.
+</p>
+
 ### 2. Car's Price prediction model
 ____
 #### Excutive Summary:
