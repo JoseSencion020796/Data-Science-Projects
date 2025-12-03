@@ -31,7 +31,11 @@ After going through multiple meetings with marketing, sales, and supply chain st
 * Insights
 
 #### Exploratory Data Analysis Findings:
-**AAA
+<table style="width:100%">
+<tr>
+<td style="width: 49%; text-align: center; padding: 10px;">
+<img src="assets/correlation_matrix.png" width="100%">
+</td>
 
 ### 2. Car's Price prediction model
 ____
