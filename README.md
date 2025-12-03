@@ -55,14 +55,7 @@ On this analysis we created a classification machine learning model to take adva
 
 #### Exploratory Data Analysis Findings:
 
-<table style="width:100%">
-<tr>
-<td style="width: 49%; text-align: center; padding: 10px;">
-<img src="assets/correlation_matrix.png" width="100%">
-</td>
 
-<td style="width: 2%; border-left: 2px solid #ccc; padding: 0 5px;">
-</td>
 
 <td style="width: 49%; text-align: center; padding: 10px;">
 <img src="assets/scatter.png" width="100%">
